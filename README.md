@@ -16,11 +16,11 @@ This project focuses on analyzing and visualizing COVID-19 data using Tableau to
 
 ## Tools and Technologies
 - **Tableau Public**: Used to design and publish the dashboard.
-- **Dataset Source**: The data was sourced from WHO reports or publicly available COVID-19 datasets. (Add the exact source link.)
-- **Data Preparation**: The raw data was cleaned and formatted using [Excel/another tool if applicable].
+- **Dataset Source**: The data was sourced from WHO reports or publicly available COVID-19 datasets. 
+- **Data Preparation**: The raw data was cleaned and formatted using [Excel]
 
 ## How to Access the Dashboard
-1. Open the Tableau Public link to interact with the dashboard: [Insert Tableau Public Link].
+1. Open the Tableau Public link to interact with the dashboard:
 2. Navigate through the visualizations to explore trends and insights.
 3. Use the filters to focus on specific WHO regions or metrics.
 
